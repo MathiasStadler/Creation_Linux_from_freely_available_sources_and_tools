@@ -2,8 +2,17 @@
 
 - Creation of Linux from freely available sources and tools
 
-## TODO add environment hw , os, tools with version
-
+>[!NOTE] add environment hw , os, tools with version
+>[!NOTE]
+>Where should I start again? Just start over from the beginning.
+<!-- -->
+>[!NOTE]
+>I don't understand everything I see
+><!-- Line to retain the format -->
+<!-- -->
+>[!NOTE]
+>CPell - Inline Document Settings [![alt text][1]](https://cspell.org/docs/Configuration/document-settings)
+><!-- Line to retain the format-->
 ## Challenge
 
 - That is the challenge: is this possible and how does it work?
@@ -15,7 +24,7 @@
 - Creation of a complete Linux kernel and a minimal Linux-based operating system based on open and freely available code and tools
 -->
 ## Motivation
-
+<!-- FIXIT check its double -->
 - The aim of the project is to find out whether and how it works
 
 ## Terms and conditions
