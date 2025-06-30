@@ -17,3 +17,9 @@
   - [ ] Review test coverage for all modules
   - [ ] Add negative test cases for input validation
   - [ ] Ensure all outputs are verified in tests
+
+## Topics for later
+
+- arch Linux
+- Linux from scratch
+  
